@@ -1,5 +1,6 @@
 # 42_M03: codexion
 
+![Codexion program preview](codexion.jpg)
 ## Table of Contents
 - [Description](#description)
 	- [The coders situation](#the-coders-situation)
@@ -76,6 +77,8 @@ valgrind --tool=helgrind ./codexion <args>
 valgrind --tool=helgrind ./codexion 2 800 200 100 100 3 50 fifo
 ./codexion 2 800 200 100 100 3 50 fifo | grep compiling | wc -l
 ```
+
+![Codexion program preview when run](codexion.jpg)
 
 ## Resources
 - discussing thread using, deadlocks, mutexes, norm polishing etc. + debugging with `LLMs (Claude, ChatGPT)`
